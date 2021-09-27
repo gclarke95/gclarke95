@@ -1,7 +1,6 @@
-### Hi there 👋
+### I am currently working for an independent firm in London specialising in transport modelling, alongisde this I am enjoying further study with the University of Essex with a MSc in Computer Science. Born in the UK, I have spent the majority of my childhood travelling notable spending a portion of time in the Middle East. I love to visit new countries and explore cuisines. 
 
 
-I AM CURRENTLY WORKING FOR AN INDEPENDENT FIRM IN LONDON SPECIALISING IN TRANSPORT PLANNING. ALONGSIDE THIS, I AM ENJOYING FURTHER STUDY WITH THE UNIVERSITY OF ESSEX. COMPUTER SCIENCE HAS ALLOWED ME TO DEVELOP THE FUNDAMENTALS OF PROGRAMMING, ALGORITHMS AND PROGRAMME DESIGN ESPECIALLY IN AN EVER DIGITISED WORLD. BORN IN THE UK, I HAVE SPENT THE MAJORITY OF MY CHILDHOOD TRAVELLING NOTABLY SPENDING A PORTION OF TIME IN THE MIDDLE EAST. I LOVE TO VISIT NEW COUNTIES AND EXPLORE CUISINES. I HAVE AN ADVANCED SCUBA DIVING QUALIFICATION WHICH I MAKE USE OF WHEREVER I CAN.
 <!--
 **gclarke95/gclarke95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
